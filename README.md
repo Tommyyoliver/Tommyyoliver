@@ -1,11 +1,9 @@
-<div aling="center" >
-    <h2 aling="center" >Hola, soy Tommy Oliver</h2>
-</div>
+#Hola, soy Tommy Oliver
 
-<div aling="center" >
-    <h4 aling="center" >Desarrollador Web Front End</h4>
-    <p aling="center" >Sentimiento impulsado por la programación y las ganas de aprender cada vez más.</p>
-</div>
+Desarrollador Web Front End
+Sentimiento impulsado por la programación y las ganas de seguir aprendiendo.
 
-*💼 Portfolio:* "https://tommyyoliver-portfolio.netlify.app"
+*💼 Portfolio:* https://tommyyoliver-portfolio.netlify.app
 *📞 Contacto:* tommyolivr@gmail.com
+
+Echa un vistazo a mis proyectos 👇
